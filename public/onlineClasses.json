@@ -1,0 +1,40 @@
+{
+    "class_name": "Introduction to Python Programming",
+    "instructor": "John Smith",
+    "start_time": "2023-04-01T10:00:00",
+    "end_time": "2023-04-01T11:30:00",
+    "max_capacity": 30,
+    "current_capacity": 22,
+
+      "subjects": [
+        {
+         "1":"Math",
+         "2":"English",
+         "3":"Html",
+         "4":"Css",
+         "5":"JavaScript",
+         "6":"React",
+         "7":"Ecma",
+         "8":"React-Native",
+         "9":"Nodejs",
+         "10":"Angular"
+        }  
+         
+    ],
+    "availableDates":[
+        {
+            "date-1":"22/03/2023",
+            "date-2":"25/03/2023",
+            "date-3":"27/03/2023",
+            "date-4":"29/03/2023",
+            "date-5":"02/04/2023",
+            "date-6":"05/04/2023",
+            "date-7":"07/04/2023",
+            "date-8":"09/04/2023",
+            "date-9":"12/04/2023",
+            "date-10":"15/04/2023"
+        }
+    ]
+    
+  }
+  
